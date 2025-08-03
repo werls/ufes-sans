@@ -1,10 +1,10 @@
-## Ufes Sans
+# Ufes Sans
 
 ![Sample of Ufes Sans Family.](documentation/image1.png "Texturina")
 ![Sample of Ufes Sans Family.](documentation/image2.png "Texturina")
 ![Sample of Ufes Sans Family.](documentation/image3.png "Texturina")
 
-### About the type family
+## About the type family
 
 The **Ufes Sans project** began with the goal of creating open-source highly legible fonts for the signage systems of the Universidade Federal do Esp&iacute;rito Santo. Starting in 2013, the project involved students from the undergraduate Design program under the supervision of Professor Ricardo Esteves. After completing its first font (Regular), the family grew with the addition of different weights such as ExtraBold, Bold, SemiBold, and Medium, followed by the first italic font to support bilingual layouts in information displays.
 
@@ -14,10 +14,10 @@ In 2023, a new phase of the project engaged volunteer students, focusing on comp
 Thus, over the years, the project evolved from a single signage font into a complete typographic system with 16 static fonts and 2 variable fonts. The release of the second version of the Ufes Sans family, on one hand, enhances resources for Ufes&rsquo; institutional communication, but also creates new digital writing tools for Indigenous peoples in Esp&iacute;rito Santo state and neighboring regions in Brazil. In doing so, the project aims to support these communities in their autonomy regarding typography in their own languages&mdash;considering both the technological environments in which this writing takes place and its diverse end applications, whether in print or digital formats.
 
 
-### Lead Designer
+## Lead Designer
 Ricardo Esteves
 
-### Contributors
+## Contributors
 Filipe Motta,  
 Thais Bronze,  
 Cássio Ferreira,  
