@@ -2,6 +2,7 @@
 
 ![Sample of Ufes Sans Family.](documentation/image1.png "Texturina")
 ![Sample of Ufes Sans Family.](documentation/image2.png "Texturina")
+![Sample of Ufes Sans Family.](documentation/image3.png "Texturina")
 
 ### About the type family
 
